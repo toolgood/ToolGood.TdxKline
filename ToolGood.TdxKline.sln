@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolGood.TdxKline", "ToolGood.TdxKline\ToolGood.TdxKline.csproj", "{48D29EEE-0293-4859-894B-C96C9E5D7913}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48D29EEE-0293-4859-894B-C96C9E5D7913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48D29EEE-0293-4859-894B-C96C9E5D7913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48D29EEE-0293-4859-894B-C96C9E5D7913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48D29EEE-0293-4859-894B-C96C9E5D7913}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC674E6F-2573-4950-AFE6-500DE798BDA7}
+	EndGlobalSection
+EndGlobal
