@@ -21,5 +21,5 @@ K线图样式采用通达信(中信证券版)
 
 
 购买网址：https://mbd.pub/o/bread/Zp2Ul55v  （1000元）
-
+支持winform、Avalonia
 
